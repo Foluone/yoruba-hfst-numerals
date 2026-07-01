@@ -1,0 +1,173 @@
+Multichar_Symbols
+  +Adjective
+  +Anchor
+  +CompoundAnchor
+  +Multiplicative
+  +Numismatic
+  +Ordinal
+  +Primitive
+  +Subtractive
+  +Val1
+  +Val10
+  +Val100
+  +Val1000
+  +Val10000
+  +Val110
+  +Val1100
+  +Val11000
+  +Val120
+  +Val1200
+  +Val12000
+  +Val130
+  +Val1300
+  +Val13000
+  +Val140
+  +Val1400
+  +Val14000
+  +Val150
+  +Val1500
+  +Val15000
+  +Val160
+  +Val1600
+  +Val16000
+  +Val170
+  +Val1700
+  +Val17000
+  +Val180
+  +Val1800
+  +Val18000
+  +Val190
+  +Val1900
+  +Val19000
+  +Val2
+  +Val20
+  +Val200
+  +Val2000
+  +Val20000
+  +Val3
+  +Val30
+  +Val300
+  +Val3000
+  +Val4
+  +Val40
+  +Val400
+  +Val4000
+  +Val5
+  +Val50
+  +Val500
+  +Val5000
+  +Val6
+  +Val60
+  +Val600
+  +Val6000
+  +Val7
+  +Val70
+  +Val700
+  +Val7000
+  +Val8
+  +Val80
+  +Val800
+  +Val8000
+  +Val9
+  +Val90
+  +Val900
+  +Val9000
+
+LEXICON Root
+  +Anchor+Val1+Primitive:ọ̀kan # ;
+  +Anchor+Val10+Primitive:ẹ̀wá # ;
+  +Anchor+Val100+Multiplicative:ọgọ́rùn-ún # ;
+  +Anchor+Val1000+Multiplicative:ẹgbẹ̀rún # ;
+  +Anchor+Val10000+Multiplicative:ẹgbàárùn-ún # ;
+  +Anchor+Val110+Subtractive:àádọ́fà # ;
+  +Anchor+Val1100+Subtractive:ẹ̀ẹ́dẹ́gbẹ̀fà # ;
+  +Anchor+Val11000+Subtractive:ẹ̀ẹ́dẹ́gbàáfà # ;
+  +Anchor+Val120+Multiplicative:ọgọ́fà # ;
+  +Anchor+Val1200+Multiplicative:ẹgbẹ̀fà # ;
+  +Anchor+Val12000+Multiplicative:ẹgbàáfà # ;
+  +Anchor+Val130+Subtractive:àádọ́je # ;
+  +Anchor+Val1300+Subtractive:ẹ̀ẹ́dẹ́gbèje # ;
+  +Anchor+Val13000+Subtractive:ẹ̀ẹ́dẹ́gbàáje # ;
+  +Anchor+Val140+Multiplicative:ogóje # ;
+  +Anchor+Val1400+Multiplicative:egbèje # ;
+  +Anchor+Val14000+Multiplicative:ẹgbàáje # ;
+  +Anchor+Val150+Subtractive:àádọ́jọ # ;
+  +Anchor+Val1500+Subtractive:ẹ̀ẹ́dẹ́gbẹ̀jọ # ;
+  +Anchor+Val15000+Subtractive:ẹ̀ẹ́dẹ́gbàájọ # ;
+  +Anchor+Val160+Multiplicative:ọgọ́jọ # ;
+  +Anchor+Val1600+Multiplicative:ẹgbẹ̀jọ # ;
+  +Anchor+Val16000+Multiplicative:ẹgbàájọ # ;
+  +Anchor+Val170+Subtractive:àádọ́sàn-án # ;
+  +Anchor+Val1700+Subtractive:ẹ̀ẹ́dẹ́gbẹ̀sán # ;
+  +Anchor+Val17000+Subtractive:ẹ̀ẹ́dẹ́gbàásàn-án # ;
+  +Anchor+Val180+Multiplicative:ọgọ́sàn-án # ;
+  +Anchor+Val1800+Multiplicative:ẹgbẹ̀sán # ;
+  +Anchor+Val18000+Multiplicative:ẹgbàásàn-án # ;
+  +Anchor+Val190+Subtractive:àádọ́wàá # ;
+  +Anchor+Val1900+Subtractive:ẹ̀ẹ́dẹ́gbẹ̀wá # ;
+  +Anchor+Val19000+Subtractive:ẹ̀ẹ́dẹ́gbàáwàá # ;
+  +Anchor+Val2+Primitive:èjì # ;
+  +Anchor+Val20+Primitive:ogún # ;
+  +Anchor+Val200+Primitive:igba # ;
+  +Anchor+Val2000+Primitive:ẹgbàá # ;
+  +Anchor+Val20000+Multiplicative:ẹgbàáwàá # ;
+  +Anchor+Val3+Primitive:ẹ̀ta # ;
+  +Anchor+Val30+Primitive:ọgbọ̀n # ;
+  +Anchor+Val300+Subtractive:ọ̀ọ́dúnrún # ;
+  +Anchor+Val3000+Subtractive:ẹ̀ẹ́dẹ́gbàájì # ;
+  +Anchor+Val4+Primitive:ẹ̀rin # ;
+  +Anchor+Val40+Multiplicative:ogójì # ;
+  +Anchor+Val400+Primitive:irinwó # ;
+  +Anchor+Val4000+Multiplicative:ẹgbàájì # ;
+  +Anchor+Val5+Primitive:àrún # ;
+  +Anchor+Val50+Subtractive:àádọ́ta # ;
+  +Anchor+Val500+Subtractive:ẹ̀ẹ́dẹ́gbẹ̀ta # ;
+  +Anchor+Val5000+Subtractive:ẹ̀ẹ́dẹ́gbàáta # ;
+  +Anchor+Val6+Primitive:ẹ̀fà # ;
+  +Anchor+Val60+Multiplicative:ọgọ́ta # ;
+  +Anchor+Val600+Multiplicative:ẹgbẹ̀ta # ;
+  +Anchor+Val6000+Multiplicative:ẹgbàáta # ;
+  +Anchor+Val7+Primitive:èje # ;
+  +Anchor+Val70+Subtractive:àádọ́rin # ;
+  +Anchor+Val700+Subtractive:ẹ̀ẹ́dẹ́gbẹ̀rin # ;
+  +Anchor+Val7000+Subtractive:ẹ̀ẹ́dẹ́gbàárin # ;
+  +Anchor+Val8+Primitive:ẹ̀jọ # ;
+  +Anchor+Val80+Multiplicative:ọgọ́rin # ;
+  +Anchor+Val800+Multiplicative:ẹgbẹ̀rin # ;
+  +Anchor+Val8000+Multiplicative:ẹgbàárin # ;
+  +Anchor+Val9+Primitive:ẹ̀sán # ;
+  +Anchor+Val90+Subtractive:àádọ́rùn-ún # ;
+  +Anchor+Val900+Subtractive:ẹ̀ẹ́dẹ́gbẹ̀rún # ;
+  +Anchor+Val9000+Subtractive:ẹ̀ẹ́dẹ́gbàárùn-ún # ;
+  +Adjective+Val1:mọ́kan # ;
+  +Adjective+Val10:mẹ́wàá # ;
+  +Adjective+Val2:méjì # ;
+  +Adjective+Val3:mẹ́ta # ;
+  +Adjective+Val4:mẹ́rin # ;
+  +Adjective+Val5:márùn-ún # ;
+  +Adjective+Val6:mẹ́fà # ;
+  +Adjective+Val7:méje # ;
+  +Adjective+Val8:mẹ́jọ # ;
+  +Adjective+Val9:mẹ́sàn-án # ;
+  +Ordinal+Val1:ìkínnì # ;
+  +Ordinal+Val10:ìkẹwàá # ;
+  +Ordinal+Val2:ìkejì # ;
+  +Ordinal+Val3:ìkẹta # ;
+  +Ordinal+Val4:ìkẹrin # ;
+  +Ordinal+Val5:ìkarùn-ún # ;
+  +Ordinal+Val6:ìkẹfà # ;
+  +Ordinal+Val7:ìkeje # ;
+  +Ordinal+Val8:ìkẹjọ # ;
+  +Ordinal+Val9:ìkẹsàn-án # ;
+  +Numismatic+Val1:oókan # ;
+  +Numismatic+Val10:ẹẹ́wàá # ;
+  +Numismatic+Val2:eéjì # ;
+  +Numismatic+Val20:okòó # ;
+  +Numismatic+Val3:ẹẹ́ta # ;
+  +Numismatic+Val4:ẹẹ́rin # ;
+  +Numismatic+Val5:aárùn-ún # ;
+  +Numismatic+Val6:ẹẹ́fà # ;
+  +Numismatic+Val7:eéje # ;
+  +Numismatic+Val8:ẹẹ́jọ # ;
+  +Numismatic+Val9:ẹẹ́sàn-án # ;
+  +CompoundAnchor+Val10:ẹ̀wàá # ;

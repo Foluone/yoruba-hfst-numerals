@@ -1,0 +1,305 @@
+{
+  "_comment": "Extracted from phase4.py's lexicon tables. Canonical source of truth going forward -- phase4.py should not need to be imported once this file exists, except as a validation oracle in tests.",
+  "adjective": {
+    "1": "mọ́kan",
+    "10": "mẹ́wàá",
+    "2": "méjì",
+    "3": "mẹ́ta",
+    "4": "mẹ́rin",
+    "5": "márùn-ún",
+    "6": "mẹ́fà",
+    "7": "méje",
+    "8": "mẹ́jọ",
+    "9": "mẹ́sàn-án"
+  },
+  "anchors": {
+    "1": {
+      "surface": "ọ̀kan",
+      "type": "primitive"
+    },
+    "10": {
+      "surface": "ẹ̀wá",
+      "type": "primitive"
+    },
+    "100": {
+      "surface": "ọgọ́rùn-ún",
+      "type": "multiplicative"
+    },
+    "1000": {
+      "surface": "ẹgbẹ̀rún",
+      "type": "multiplicative"
+    },
+    "10000": {
+      "surface": "ẹgbàárùn-ún",
+      "type": "multiplicative"
+    },
+    "110": {
+      "surface": "àádọ́fà",
+      "type": "subtractive"
+    },
+    "1100": {
+      "surface": "ẹ̀ẹ́dẹ́gbẹ̀fà",
+      "type": "subtractive"
+    },
+    "11000": {
+      "surface": "ẹ̀ẹ́dẹ́gbàáfà",
+      "type": "subtractive"
+    },
+    "120": {
+      "surface": "ọgọ́fà",
+      "type": "multiplicative"
+    },
+    "1200": {
+      "surface": "ẹgbẹ̀fà",
+      "type": "multiplicative"
+    },
+    "12000": {
+      "surface": "ẹgbàáfà",
+      "type": "multiplicative"
+    },
+    "130": {
+      "surface": "àádọ́je",
+      "type": "subtractive"
+    },
+    "1300": {
+      "surface": "ẹ̀ẹ́dẹ́gbèje",
+      "type": "subtractive"
+    },
+    "13000": {
+      "surface": "ẹ̀ẹ́dẹ́gbàáje",
+      "type": "subtractive"
+    },
+    "140": {
+      "surface": "ogóje",
+      "type": "multiplicative"
+    },
+    "1400": {
+      "surface": "egbèje",
+      "type": "multiplicative"
+    },
+    "14000": {
+      "surface": "ẹgbàáje",
+      "type": "multiplicative"
+    },
+    "150": {
+      "surface": "àádọ́jọ",
+      "type": "subtractive"
+    },
+    "1500": {
+      "surface": "ẹ̀ẹ́dẹ́gbẹ̀jọ",
+      "type": "subtractive"
+    },
+    "15000": {
+      "surface": "ẹ̀ẹ́dẹ́gbàájọ",
+      "type": "subtractive"
+    },
+    "160": {
+      "surface": "ọgọ́jọ",
+      "type": "multiplicative"
+    },
+    "1600": {
+      "surface": "ẹgbẹ̀jọ",
+      "type": "multiplicative"
+    },
+    "16000": {
+      "surface": "ẹgbàájọ",
+      "type": "multiplicative"
+    },
+    "170": {
+      "surface": "àádọ́sàn-án",
+      "type": "subtractive"
+    },
+    "1700": {
+      "surface": "ẹ̀ẹ́dẹ́gbẹ̀sán",
+      "type": "subtractive"
+    },
+    "17000": {
+      "surface": "ẹ̀ẹ́dẹ́gbàásàn-án",
+      "type": "subtractive"
+    },
+    "180": {
+      "surface": "ọgọ́sàn-án",
+      "type": "multiplicative"
+    },
+    "1800": {
+      "surface": "ẹgbẹ̀sán",
+      "type": "multiplicative"
+    },
+    "18000": {
+      "surface": "ẹgbàásàn-án",
+      "type": "multiplicative"
+    },
+    "190": {
+      "surface": "àádọ́wàá",
+      "type": "subtractive"
+    },
+    "1900": {
+      "surface": "ẹ̀ẹ́dẹ́gbẹ̀wá",
+      "type": "subtractive"
+    },
+    "19000": {
+      "surface": "ẹ̀ẹ́dẹ́gbàáwàá",
+      "type": "subtractive"
+    },
+    "2": {
+      "surface": "èjì",
+      "type": "primitive"
+    },
+    "20": {
+      "surface": "ogún",
+      "type": "primitive"
+    },
+    "200": {
+      "surface": "igba",
+      "type": "primitive"
+    },
+    "2000": {
+      "surface": "ẹgbàá",
+      "type": "primitive"
+    },
+    "20000": {
+      "surface": "ẹgbàáwàá",
+      "type": "multiplicative"
+    },
+    "3": {
+      "surface": "ẹ̀ta",
+      "type": "primitive"
+    },
+    "30": {
+      "surface": "ọgbọ̀n",
+      "type": "primitive"
+    },
+    "300": {
+      "surface": "ọ̀ọ́dúnrún",
+      "type": "subtractive"
+    },
+    "3000": {
+      "surface": "ẹ̀ẹ́dẹ́gbàájì",
+      "type": "subtractive"
+    },
+    "4": {
+      "surface": "ẹ̀rin",
+      "type": "primitive"
+    },
+    "40": {
+      "surface": "ogójì",
+      "type": "multiplicative"
+    },
+    "400": {
+      "surface": "irinwó",
+      "type": "primitive"
+    },
+    "4000": {
+      "surface": "ẹgbàájì",
+      "type": "multiplicative"
+    },
+    "5": {
+      "surface": "àrún",
+      "type": "primitive"
+    },
+    "50": {
+      "surface": "àádọ́ta",
+      "type": "subtractive"
+    },
+    "500": {
+      "surface": "ẹ̀ẹ́dẹ́gbẹ̀ta",
+      "type": "subtractive"
+    },
+    "5000": {
+      "surface": "ẹ̀ẹ́dẹ́gbàáta",
+      "type": "subtractive"
+    },
+    "6": {
+      "surface": "ẹ̀fà",
+      "type": "primitive"
+    },
+    "60": {
+      "surface": "ọgọ́ta",
+      "type": "multiplicative"
+    },
+    "600": {
+      "surface": "ẹgbẹ̀ta",
+      "type": "multiplicative"
+    },
+    "6000": {
+      "surface": "ẹgbàáta",
+      "type": "multiplicative"
+    },
+    "7": {
+      "surface": "èje",
+      "type": "primitive"
+    },
+    "70": {
+      "surface": "àádọ́rin",
+      "type": "subtractive"
+    },
+    "700": {
+      "surface": "ẹ̀ẹ́dẹ́gbẹ̀rin",
+      "type": "subtractive"
+    },
+    "7000": {
+      "surface": "ẹ̀ẹ́dẹ́gbàárin",
+      "type": "subtractive"
+    },
+    "8": {
+      "surface": "ẹ̀jọ",
+      "type": "primitive"
+    },
+    "80": {
+      "surface": "ọgọ́rin",
+      "type": "multiplicative"
+    },
+    "800": {
+      "surface": "ẹgbẹ̀rin",
+      "type": "multiplicative"
+    },
+    "8000": {
+      "surface": "ẹgbàárin",
+      "type": "multiplicative"
+    },
+    "9": {
+      "surface": "ẹ̀sán",
+      "type": "primitive"
+    },
+    "90": {
+      "surface": "àádọ́rùn-ún",
+      "type": "subtractive"
+    },
+    "900": {
+      "surface": "ẹ̀ẹ́dẹ́gbẹ̀rún",
+      "type": "subtractive"
+    },
+    "9000": {
+      "surface": "ẹ̀ẹ́dẹ́gbàárùn-ún",
+      "type": "subtractive"
+    }
+  },
+  "compound_anchor_forms": {
+    "10": "ẹ̀wàá"
+  },
+  "numismatic": {
+    "1": "oókan",
+    "10": "ẹẹ́wàá",
+    "2": "eéjì",
+    "20": "okòó",
+    "3": "ẹẹ́ta",
+    "4": "ẹẹ́rin",
+    "5": "aárùn-ún",
+    "6": "ẹẹ́fà",
+    "7": "eéje",
+    "8": "ẹẹ́jọ",
+    "9": "ẹẹ́sàn-án"
+  },
+  "ordinal": {
+    "1": "ìkínnì",
+    "10": "ìkẹwàá",
+    "2": "ìkejì",
+    "3": "ìkẹta",
+    "4": "ìkẹrin",
+    "5": "ìkarùn-ún",
+    "6": "ìkẹfà",
+    "7": "ìkeje",
+    "8": "ìkẹjọ",
+    "9": "ìkẹsàn-án"
+  }
+}
