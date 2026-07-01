@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Compiled HFST binaries -- build artifacts, regenerate from .lexc/.py sources
+# (see README.md "Setup" section)
+*.hfst
+*.hfstol
+
+# Scratch validation-run artifacts from chunked exhaustive test runs
+# (see IMPLEMENTATION_NOTES.md for why H3-deep validation was chunked)
+chunk*.json
+_run.log
+_chunk_deep.py
