@@ -1,0 +1,14 @@
+{
+ "files": {
+  "config.json": "c808fc6afe35c9c8fbd183922480bc4d26600ce604c3cf94212b87ad8e851c37",
+  "ANALYSIS_PLAN.md": "f0699686a6aab3b0f9f410d497996fa89f2afbfec93aa8609d76f737c588cdab",
+  "items_recognition.jsonl": "9f6874363182138412c3516c81231d3d27f5ab8738559b66d90f8be9af556592",
+  "items_generation.jsonl": "60d597bfea2406b57bf467189a9c851fe332ce59930916ee663cdd7b7f05b9a2",
+  "prompts.json": "474aee801dc4aa11b3c0610608b5af23c57008aae3dd222c1287280324494f19",
+  "fewshot.json": "31d6e8e5b6907fcb12abe78e31650fb48f79d97966c2ba9b95cb83b70d0774e7",
+  "script/llm_baseline.py": "675e66408e813279bf47dc7180974a69679bf928e3c636714d6ea35cde36f642",
+  "script/roundtrip_gate.py": "4755e97f0af162ba10cae3f73e1e583e3ee7f2eafd32a2acb23c8a4fbed30fff"
+ },
+ "protocol_sha256": "e9bbdc3e8c3c05e8f93ed8134ffb870736a8b164658fdd77f698bc6c08733278",
+ "created": "2026-11-25T19:01:45+0200"
+}

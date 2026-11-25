@@ -1,0 +1,6 @@
+{
+ "recognition_system": "You read Yoruba text. List every number that the text expresses in words (not in digits), with its value as an integer. Count ordinals too: for 'the third' give 3. Do not count: the word kan when it means 'a' or 'a certain'; words such as ẹnìkan 'someone' or nǹkan 'something'; words for 'both' or 'all three' (such as méjèèjì); or words for 'once' or 'twice'. Reply with JSON only, in the form {\"numbers\": [{\"words\": \"<the words as written>\", \"value\": <integer>}]}. If the text expresses no number in words, reply {\"numbers\": []}.",
+ "recognition_user": "Text:\n{text}",
+ "generation_system": "You write Standard Yoruba. Give the numeral for the number in the form used before a noun or in counting (for example, 2 is méjì or èjì), as it would be written in Standard Yoruba orthography with full tone marks and dots below. Reply with JSON only, in the form {\"yoruba\": \"<numeral>\"}.",
+ "generation_user": "Number: {value}"
+}

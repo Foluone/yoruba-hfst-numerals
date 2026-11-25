@@ -1,0 +1,127 @@
+{
+ "provider": "anthropic",
+ "model": "claude-sonnet-5-5",
+ "temperature": null,
+ "max_tokens": 8192,
+ "repeat_ids": [
+  "Bible:1ee45661e3cb",
+  "Bible:3bb0b300da57",
+  "Bible:45c33aa87eac",
+  "Bible:4d7f50a17d60",
+  "Bible:63a4251da168",
+  "Bible:72043f9ba499",
+  "Bible:8ba7944e82b0",
+  "Bible:ce1c95e692c6",
+  "Bible:dbdf7d2c4eb4",
+  "Bible:e4979d06495a",
+  "BookOfMormon:0c19b701b2eb",
+  "BookOfMormon:25a42c226d9f",
+  "BookOfMormon:2e3cdbaecb9c",
+  "BookOfMormon:48a4ed9139f9",
+  "BookOfMormon:4c00de29233f",
+  "BookOfMormon:5424ab95cb7d",
+  "BookOfMormon:8018f8901fb5",
+  "BookOfMormon:81844cec8d21",
+  "BookOfMormon:89d37cef7468",
+  "BookOfMormon:bef85e220f47",
+  "BookOfMormon:cbbaf5bb3b06",
+  "BookOfMormon:cc4894faea73",
+  "BookOfMormon:dbf1c61e2bf3",
+  "BookOfMormon:eaf46ba6038f",
+  "MENYO-20k:06edab79435a",
+  "MENYO-20k:0e97a5a0cb99",
+  "MENYO-20k:5310edb9bc99",
+  "MENYO-20k:827b87c15cf2",
+  "MENYO-20k:8a3247cb60b5",
+  "MENYO-20k:b28416dc200a",
+  "MENYO-20k:b28c8a6cdd74",
+  "MENYO-20k:be926923ec32",
+  "MENYO-20k:c969ba14112c",
+  "MENYO-20k:cd9b044fd216",
+  "MENYO-20k:ed6899cd8e08",
+  "Quran:08dfa2d07d82",
+  "Quran:1015cc8995e7",
+  "Quran:11bbaa194e8e",
+  "Quran:188c0cf57ea3",
+  "Quran:4276706ebc85",
+  "Quran:5890a0f8c3d3",
+  "Quran:5d503566586d",
+  "Quran:918d1f57f345",
+  "Quran:a69786133168",
+  "Quran:b56131434157",
+  "Quran:b8fc2ac1bd7b",
+  "Quran:c81cbb10d04b",
+  "Quran:dd4710f0c337",
+  "Quran:eea0478937da",
+  "Quran:fc01101e29be"
+ ],
+ "conditions": [
+  "zero-shot"
+ ],
+ "seed": 20261124,
+ "pos_per_corpus": 200,
+ "positives_total": {
+  "Bible": 1850,
+  "BookOfMormon": 389,
+  "MENYO-20k": 1498,
+  "Quran": 120
+ },
+ "neg_per_corpus": 200,
+ "gen_quota": [
+  25,
+  25,
+  25,
+  25
+ ],
+ "table": "../../01_sealed_runs/eval_bible_parallel/tables/pynini.json",
+ "table_sha256": "fafa5f800b46e4ed4ebab2c295a6fa88668aee3c102fecd15703a1891677a01e",
+ "variants": null,
+ "variants_sha256": null,
+ "value_field": "value",
+ "cardinal_prefixes": [
+  "cardinal",
+  "adjective"
+ ],
+ "headline_level": "L2",
+ "generation_level_loose": "L5d",
+ "reader": "score_runs.py",
+ "reader_sha256": "d040330d1a941d8e7e1279fbd648ef46d3314a86dc0481a8eae6a8b0b1e323c1",
+ "negatives_total": {
+  "Bible": 20214,
+  "BookOfMormon": 4731,
+  "MENYO-20k": 11052,
+  "Quran": 4373
+ },
+ "shots_skipped_as_test_overlap": [
+  {
+   "corpus": "BookOfMormon",
+   "verse_id": "f223c05e8c7f",
+   "overlap_with_test": 0.333
+  },
+  {
+   "corpus": "Bible",
+   "verse_id": "c41bbfdaa301",
+   "overlap_with_test": 1.0
+  },
+  {
+   "corpus": "BookOfMormon",
+   "verse_id": "6ce13a3eda9b",
+   "overlap_with_test": 0.26
+  }
+ ],
+ "shot_overlap_threshold": 0.2,
+ "margins_points": {
+  "accuracy": 5.0,
+  "false_reading": 2.0
+ },
+ "bootstrap": {
+  "resamples": 4000,
+  "seed": 20261125,
+  "level": 0.95
+ },
+ "descriptive_only": [
+  "Quran"
+ ],
+ "parse_retries": 1,
+ "deposit_reference": ""
+}
